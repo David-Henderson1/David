@@ -49,7 +49,7 @@
   </a>
   <a href="https://aaqibjavaid.hashnode.dev/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="MadhuSaini22" height="40" />
-  </a>https://github.com/David-Henderson1/David/blob/main/README.md
+  </a>
   <a href="https://github.com/aaqib605" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MadhuSaini22" height="40" />
   </a>
