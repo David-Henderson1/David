@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Henderson</h1>
-![image](https://github.com/user-attachments/assets/3a221ace-9f55-4bb0-92ae-294f24ac9ee2)
+
 
 <h3 align="center">Building high-performance, scalable applications that drive impactful results. Recognized for my problem-solving abilities and unwavering commitment to excellence, I deliver clean, efficient code that meets the highest standards. With expertise across both front-end and back-end stacks, I’m continually pushing boundaries to enhance code quality, optimize performance, and deliver on ambitious timelines. 💼 Current Stack: Angular, .NET Core, React, Node.js, and more.</h3>
 
