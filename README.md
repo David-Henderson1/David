@@ -22,23 +22,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-henderson1&" alt="david-henderson1" /></p>
 
-@@ -1,17 +1,72 @@
-<h1 align="center">Hi 👋, I'm Aaqib</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+
 <h1 align="center">Hi there 👋, I'm Aaqib Javaid!</h1>
 <h3 align="center">Full Stack Developer from India</h3>
 
-- 🌱 I’m currently working with **MERN Stack.**
+🌱 I’m currently working with **MERN Stack.**
 <div align="left"> 
 <p>🔭 I’m currently working on <b>web applications and browser extensions</b></p>
 
-- 📝 I regularly write articles on [https://aaqibjavaid.hashnode.dev/](https://aaqibjavaid.hashnode.dev/)
+📝 I regularly write articles on [https://aaqibjavaid.hashnode.dev/](https://aaqibjavaid.hashnode.dev/)
 <p>🌱 I’m currently learning <b>Advanced React Techniques, Next.js and Node.js</b></p>
 
-- 💬 Ask me about **JavaScript, React.**
+💬 Ask me about **JavaScript, React.**
 <p>👯 I’m looking to collaborate on <b>Open Source Projects</b></p>
 
-- 📫 How to reach me **aaqibjavaid605@gmail.com**
+📫 How to reach me **aaqibjavaid605@gmail.com**
 <p>💬 Ask me about <b>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB</b></p>
 
 <h3 align="left">Connect with me:</h3>
