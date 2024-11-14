@@ -92,4 +92,3 @@ Building high-performance, scalable applications that drive impactful results. R
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
