@@ -92,3 +92,8 @@ Building high-performance, scalable applications that drive impactful results. R
 <br />
 
 ----
+
+
+
+[![David-Henderson1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&theme=radical)](https://github.com/David-Henderson1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=radical)](https://github.com/David-Henderson1)
